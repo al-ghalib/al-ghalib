@@ -1,8 +1,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=al-ghalib.al-ghalib)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/al-ghalib)
+![Visitor Count](https://profile-counter.glitch.me/{al-ghalib}/count.svg)
+[![Github](https://img.shields.io/github/followers/al-ghalib?label=Follow&style=social)](https://github.com/al-ghalib)
 
 <div size='20px'> Hi! My name is Abdullah Al Ghalib. Thank You for taking time to view my GitHub Profile :smile: </div>
 

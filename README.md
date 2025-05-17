@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on  the backend technology with Django and FastAPI. Also, I am exploring ML and GenAI.
   
-- 🌱 I’m currently learning Backend Engineering, LLM, AWS
+- 🌱 I’m currently learning Backend Engineering, LLMs. 
 
 - 👯 I’m looking to collaborate on Projects and Research works
   

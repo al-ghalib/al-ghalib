@@ -10,7 +10,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  the backend technology with Django and FastAPI. Also, I am exploring ML and GenAI.
+- 🔭 I’m currently working on  the backend technology with C# and Python. Also, I am exploring ML and GenAI.
   
 - 🌱 I’m currently learning Backend Engineering, LLMs. 
 

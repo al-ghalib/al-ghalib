@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/al-ghalib?label=Follow&style=social)](https://github.com/al-ghalib)
 
-<div size='20px'> Hi! My name is Abdullah Al Ghalib. Thank You for taking time to view my GitHub Profile :smile: </div>
+<div size='20px'> Hi! My name is Abdullah Al Ghalib. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on  the backend technology with C# and Python. Also, I am exploring ML and GenAI.
   
-- 🌱 I’m currently learning Backend Engineering, LLMs. 
+- 🌱 Currently exploring Backend stuff and LLMs. 
 
-- 👯 I’m looking to collaborate on Projects and Research works
+- 👯 Looking to collaborate on Open Source Projects and Research works
   
-- 💬 Ask me about Sql, Python, C++, JavaScript, NLP
+- 💬 Ask me about Python, C++/C#, JavaScript, Multimodal AI
   
 <br>
 

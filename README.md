@@ -8,13 +8,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  the backend technology with C# and Python. Also, I am exploring ML and GenAI.
+- 🔭 I’m currently working on full-stack technology with TypeScript and Python.
   
-- 🌱 Currently exploring Backend stuff and LLMs. 
+- 🌱 Currently exploring AWS, LLMs, and Agentic AI. 
 
 - 👯 Looking to collaborate on Open Source Projects and Research works
   
-- 💬 Ask me about Python, C++/C#, JavaScript, Multimodal AI
+- 💬 Ask me about Python, C++, TypeScript, Multimodal AI, C#
   
 <br>
 
